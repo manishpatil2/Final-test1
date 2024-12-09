@@ -9,7 +9,7 @@ import YourRewards from '../Components/YourRewards';
 import { NavLink } from 'react-router-dom';
 
 
-const AlphaSNOW = () => {
+const AlphaDogs = () => {
   const { balance, loadingTwo, setLoadingTwo, checker, setChecker, loading } = useUser();
   const [checking, setChecking] = useState(false);
   const [welcome, setWelcome] = useState(true);
