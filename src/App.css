@@ -95,6 +95,7 @@ p, em{
 
 .taskbg{
   background: linear-gradient(to top, #000, #fff);
+  backdrop-filter: blur(30px);
   background-color: #0c93fa;
   color: #fff;
   max-height: 100vh;
