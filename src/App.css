@@ -94,9 +94,9 @@ p, em{
 }
 
 .taskbg{
-  background: linear-gradient(to top, #000, #fff);
+  background: linear-gradient(to top, #000, #aed2e6);
   backdrop-filter: blur(30px);
-  background-color: #0c93fa;
+  background-color: #aed2e6;
   color: #fff;
   max-height: 100vh;
   touch-action: none; /* Prevent touch actions */
