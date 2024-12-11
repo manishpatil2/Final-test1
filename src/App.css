@@ -26,8 +26,8 @@ p, em{
   background-size:cover;
   background-repeat: no-repeat;
   background-position-y: 20px;
-  background-color: #ffd798;
-  backdrop-filter: blur(10px);
+  background-color: #675bf0;
+  backdrop-filter: blur 30px;
   background-blend-mode: multiply;
 } */
 
