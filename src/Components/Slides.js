@@ -131,7 +131,7 @@ const CommunitySlider = () => {
           <span
             key={index}
             className={`w-2 h-2 rounded-full cursor-pointer ${
-              index === (currentSlide % slides.length) ? 'bg-white' : 'bg-gray-400'
+              index === (currentSlide % slides.length) ? 'bg-white' : 'bg-pink-400'
             }`}
             onClick={() => handleDotClick(index)}
           ></span>
