@@ -97,7 +97,7 @@ const CommunitySlider = () => {
 
         {slides.concat(slides[0]).map((slide, index) => (
           <div key={index} className="min-w-[90%]"> {/* adjust 100% to 90% for partial view */}
-            <div className="bg-[#17181A] mr-4 rounded-[12px] py-6 px-4 flex flex-col">
+            <div className="bg-[#f2b1e3] mr-4 rounded-[12px] py-6 px-4 flex flex-col">
               <h2 className="font-medium">{slide.title}</h2>
               <p className="pb-2 text-[14px]">{slide.description}</p>
 
