@@ -994,7 +994,7 @@ background: #ffbfbf29;
 
     .rewardsbg{
       background-image: url('/public/starsbg2.webp');
-      background-color: #000;
+      background-color: #fff;
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
