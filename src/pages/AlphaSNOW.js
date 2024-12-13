@@ -77,7 +77,7 @@ const checkers = () => {
         </div>
       </div>
 
-      <div className='w-full flex justify-center bg-[#181818] rounded-[12px] relative overflow-hidden'>
+      <div className='w-full flex justify-center bg-[#00ffffff] rounded-[12px] relative overflow-hidden'>
 
       <img src='/blurbg.svg' alt='ifd' className='object-cover absolute left-0 w-full right-0 h-[200px] object-center rounded-[12px]'/>
 
