@@ -1,5 +1,5 @@
 body{
-  background: radial-gradient(circle at center,#f55ba8,#000);
+  background: linear-gradient (to top, #34d5eb, #387ff2, #f238e6);
   /* background: linear-gradient(to top, #000, #181100); */
   /* background: #150c17; */
   background-color:#f55ba8;
